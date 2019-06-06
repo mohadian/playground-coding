@@ -23,10 +23,10 @@ public class KClosest {
     }
 
     private static void buildQueue(int[][] points, PriorityQueue<int[]> queue) {
-        for (int i = 0; i < points.length; i++) {
-            int x = points[i][0];
-            int y = points[i][1];
-            int[] npoint = {(x*x) + (y*y), x,y};
+        for (int[] point : points) {
+            int x = point[0];
+            int y = point[1];
+            int[] npoint = {(x * x) + (y * y), x, y};
             queue.offer(npoint);
         }
     }
