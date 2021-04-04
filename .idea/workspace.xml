@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26b68903-9c81-4c1e-8e32-9708de8e5138" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/test/java/com/mohadian/ValidParenthesisStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/Coding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/Coding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/Autocomplete.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/Autocomplete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/BabyNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/BabyNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/BeautifulArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/BeautifulArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/BinaryGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/BinaryGap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/CastleOnGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/CastleOnGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/CircusTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/CircusTower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/ContiguousSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/ContiguousSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/CountAndSay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/CountTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/CountTriplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/DecodeNumWaysCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/DecodeNumWaysCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/Dijestra.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/Dijestra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/DisjointSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/DisjointSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/DivingBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/DivingBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/EvalExpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/EvalExpr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/FindKPairSmallestSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/FindKPairSmallestSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/FlowerPlanting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/FlowerPlanting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/GenerateSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/GenerateSubsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/GenericSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/GenericSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/GrayNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/GrayNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/HighestValuePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/HighestValuePalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/HuffmanCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/HuffmanCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/InfixCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/InfixCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/IntegerToRoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/JavaPlayground.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/JavaPlayground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/KClosest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/KClosest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/Kaprekar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/Kaprekar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/KthLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/KthLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/LandPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LandPerimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/LargestRectangleInHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LargestRectangleInHistogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/LettersAndNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LettersAndNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/LinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LinkedListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/LonelyInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LonelyInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/LonelySeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LonelySeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/LongestNonRepeatedSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LongestNonRepeatedSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/LongestPalindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LongestPalindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/LongestPalindromicSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LongestPalindromicSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/Masseuse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/Masseuse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/MasterMind.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/MasterMind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/MaximumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/MaximumElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/MergingCommunities.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/MergingCommunities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/MinCostForTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/MinCostForTickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/NSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/NSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/NumberSwapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/NumberSwapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/PairsWithSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/PairsWithSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/PalindromLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/PalindromLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/PasswordCracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/PasswordCracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/PatternMatchDuplicated.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/PatternMatchDuplicated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/PermutationSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/PermutationSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/PhoneLetterCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/PhoneLetterCombination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/PhoneT9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/PhoneT9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/PondSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/PondSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/QueenAtack2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/QueenAtack2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/Queue2Stacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/Queue2Stacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/ReSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/ReSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/RemoveAdjacentDuplicatesString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/RemoveAdjacentDuplicatesString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/ReplaceWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/ReplaceWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/ReverseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/ReverseStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/RleIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/RleIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/SesrchRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/SesrchRotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/SkylineDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/SkylineDrawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/SmallestChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/SmallestChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/SpecialPalindromeAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/SpecialPalindromeAgain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/StackWithMaxOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/StackWithMaxOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/StringPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/StringPermutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/StringToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/SumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/SumInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/SumSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/SumSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/TestTrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/TestTrie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/TopologicalBuildOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/TopologicalBuildOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/TripleSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/TripleSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/TwoArrayMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/TwoArrayMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/ValidParenthesisString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/ValidParenthesisString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/WaterInGraphBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/WaterInGraphBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/WordDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/WordDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/WordFrequencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/WordFrequencies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/XMLEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/XMLEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/src/com/mohadian/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/main/java/com/mohadian/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding/tests/com/mohadian/LonelySeatTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Coding/src/test/java/com/mohadian/LonelySeatTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Coding">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/Coding">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Coding" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qiHFNwJTKeBjvrBV9Yg09647QL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Coding/src/test/java/com/mohadian" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Coding" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Coding" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Coding/src/test/java" />
+      <recent name="$PROJECT_DIR$/Coding/src/main/java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mohadian" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Autocomplete">
+    <configuration name="Autocomplete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mohadian.Autocomplete" />
+      <module name="Coding.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohadian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LonelySeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mohadian.LonelySeat" />
+      <module name="Coding.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohadian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LonelySeatTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Coding" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.mohadian.LonelySeatTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LonelySeatTest.findBestSeat_shouldReturnBestSeat_whenSample1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Coding" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.mohadian.LonelySeatTest.findBestSeat_shouldReturnBestSeat_whenSample1&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ValidParenthesisStringTest.name" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Coding" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.mohadian.ValidParenthesisStringTest.name&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Autocomplete" />
+        <item itemvalue="Gradle.ValidParenthesisStringTest.name" />
+        <item itemvalue="Gradle.LonelySeatTest" />
+        <item itemvalue="Application.LonelySeat" />
+        <item itemvalue="Gradle.LonelySeatTest.findBestSeat_shouldReturnBestSeat_whenSample1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26b68903-9c81-4c1e-8e32-9708de8e5138" name="Default Changelist" comment="" />
+      <created>1617555386035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617555386035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding/src/main/java/com/mohadian/LonelySeat.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
