@@ -6,11 +6,10 @@ com/mohadian/ReverseStack.java
  com.mohadian.ReverseStack
 com/mohadian/InfixCalculator.java
  com.mohadian.InfixCalculator
-com/mohadian/BeautifulArray.java
- com.mohadian.BeautifulArray
-com/mohadian/LinkedListReverse.java
- com.mohadian.LinkedListReverse
- com.mohadian.LinkedListReverse$Node
+com/mohadian/RemoveDuplicates.java
+ com.mohadian.RemoveDuplicates
+com/mohadian/LonelySeat.java
+ com.mohadian.LonelySeat
 com/mohadian/GenerateParentheses.java
  com.mohadian.GenerateParentheses
 com/mohadian/Dijestra.java
@@ -123,15 +122,16 @@ com/mohadian/GenericSort.java
  com.mohadian.GenericSort
 com/mohadian/FlowerPlanting.java
  com.mohadian.FlowerPlanting
-com/mohadian/ClimbingStairs.java
- com.mohadian.ClimbingStairs
+com/mohadian/BabyNames.java
+ com.mohadian.BabyNames
+ com.mohadian.BabyNames$NameSet
 com/mohadian/MaximumElement.java
  com.mohadian.MaximumElement
  com.mohadian.MaximumElement$Query
  com.mohadian.MaximumElement$QueryType
-com/mohadian/BabyNames.java
- com.mohadian.BabyNames
- com.mohadian.BabyNames$NameSet
+com/mohadian/LinkedListReverse.java
+ com.mohadian.LinkedListReverse
+ com.mohadian.LinkedListReverse$Node
 com/mohadian/PalindromeNumber.java
  com.mohadian.PalindromeNumber
 com/mohadian/SpecialPalindromeAgain.java
@@ -159,8 +159,8 @@ com/mohadian/GenerateSubsets.java
  com.mohadian.GenerateSubsets
 com/mohadian/IntegerToRoman.java
  com.mohadian.IntegerToRoman
-com/mohadian/CastleOnGrid.java
- com.mohadian.CastleOnGrid
+com/mohadian/BeautifulArray.java
+ com.mohadian.BeautifulArray
 com/mohadian/PhoneLetterCombination.java
  com.mohadian.PhoneLetterCombination
 com/mohadian/LongestPalindrom.java
@@ -193,7 +193,7 @@ com/mohadian/Kaprekar.java
  com.mohadian.Kaprekar
 com/mohadian/Fibonacci.java
  com.mohadian.Fibonacci
-com/mohadian/RemoveDuplicates.java
- com.mohadian.RemoveDuplicates
-com/mohadian/LonelySeat.java
- com.mohadian.LonelySeat
+com/mohadian/CastleOnGrid.java
+ com.mohadian.CastleOnGrid
+com/mohadian/ClimbingStairs.java
+ com.mohadian.ClimbingStairs

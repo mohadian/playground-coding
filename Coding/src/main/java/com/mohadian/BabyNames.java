@@ -5,12 +5,13 @@ import java.util.*;
 public class BabyNames {
 
     static class NameSet {
-        Set<String> names = new HashSet();
+        Set<String> names = new HashSet<>();
         String rootName;
         int frequency;
 
         public NameSet(String rootName, int frequency) {
             this.rootName = rootName;
+            this.names.add(rootName);
             this.frequency = frequency;
         }
 
@@ -53,9 +54,7 @@ public class BabyNames {
 
         Map<String, NameSet> nameMergedGroups = mergeGroups(nameGroups, synonyms);
 
-        Map<String, Integer> nameList = simplifyGroups(nameMergedGroups);
-
-        return nameList;
+        return simplifyGroups(nameMergedGroups);
     }
 
     private static Map<String, Integer> simplifyGroups(Map<String, NameSet> nameMergedGroups) {
@@ -69,9 +68,9 @@ public class BabyNames {
     }
 
     private static Map<String, NameSet> mergeGroups(Map<String, NameSet> nameGroups, String[][] synonyms) {
-        for (int i = 0; i < synonyms.length; i++) {
-            String name1 = synonyms[i][0];
-            String name2 = synonyms[i][1];
+        for (String[] synonym : synonyms) {
+            String name1 = synonym[0];
+            String name2 = synonym[1];
 
             NameSet nameSet1 = nameGroups.get(name1);
             NameSet nameSet2 = nameGroups.get(name2);

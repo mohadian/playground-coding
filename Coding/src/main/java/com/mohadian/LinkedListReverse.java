@@ -20,7 +20,22 @@ public class LinkedListReverse {
         root.next.next = root;
         root.next = null;
         return next;
+    }
 
+    private static Node reverseIterative(Node root) {
+        Node pre = null;
+        Node current = root;
+        Node next = current.next;
+
+        while(next != null){
+            current.next = pre;
+            pre = current;
+            current = next;
+            next = current.next;
+        }
+
+        current.next = pre;
+        return current;
     }
 
     private static void printList(Node root) {
@@ -39,8 +54,9 @@ public class LinkedListReverse {
         root.next.next.next.next = new Node(5);
 
         printList(root);
-        Node head = reverseRec(root);
-
+        Node head = reverseIterative(root);
+        printList(head);
+        head = reverseRec(head);
         printList(head);
     }
 }

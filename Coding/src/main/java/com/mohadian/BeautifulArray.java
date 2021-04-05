@@ -7,9 +7,9 @@ import java.util.Map;
 public class BeautifulArray {
 
     private Map<Integer, int[]> memo;
-    private int[] beautifulArray(int N) {
-        memo = new HashMap();
-        return f(N);
+    private int[] beautifulArray(int num) {
+        memo = new HashMap<>();
+        return f(num);
     }
 
     private int[] f(int N) {
@@ -34,6 +34,7 @@ public class BeautifulArray {
         BeautifulArray beautifulArray = new BeautifulArray();
 
         System.out.println(Arrays.toString(beautifulArray.beautifulArray(5)));
+        System.out.println(Arrays.toString(beautifulArray.beautifulArray(10)));
     }
 
 }

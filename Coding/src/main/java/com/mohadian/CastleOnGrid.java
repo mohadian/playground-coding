@@ -27,8 +27,8 @@ public class CastleOnGrid {
     }
 
     private static int calculateTurns(boolean[][] visited, int startX, int startY, int endX, int endY) {
-        for (int i = 0; i < visited.length; i++) {
-            System.out.println(Arrays.toString(visited[i]));
+        for (boolean[] booleans : visited) {
+            System.out.println(Arrays.toString(booleans));
         }
         int x = startX;
         int y = startY;

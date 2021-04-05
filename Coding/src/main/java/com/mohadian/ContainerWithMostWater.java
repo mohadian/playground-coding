@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class ContainerWithMostWater {
     private static int maxArea(int[] height) {
-        Stack<Integer> stack = new Stack();
+        Stack<Integer> stack = new Stack<>();
         int maxArea = 0;
         int area = 0;
         int i = 0;
