@@ -16,9 +16,7 @@ public class ClimbingStairs {
         if (memo[steps] > 0) {
             return memo[steps];
         }
-        if (steps < 0) {
-            return 0;
-        } else if (steps < 3) {
+        if (steps < 3) {
             memo[steps] = steps;
             return steps;
         } else {
@@ -29,8 +27,8 @@ public class ClimbingStairs {
 
     public static void main(String[] args) {
         ClimbingStairs climb = new ClimbingStairs();
-//        int count = climb.calculateMemo(20, new int[21]);
-        int count = climb.calculate(30);
+        //int count = climb.calculateMemo(20, new int[21]);
+        int count = climb.calculate(20);
         System.out.println(count);
     }
 }

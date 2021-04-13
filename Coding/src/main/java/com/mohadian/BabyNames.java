@@ -58,13 +58,13 @@ public class BabyNames {
     }
 
     private static Map<String, Integer> simplifyGroups(Map<String, NameSet> nameMergedGroups) {
-        Map<String, Integer> list = new HashMap<>();
+        Map<String, Integer> map = new HashMap<>();
         for (Map.Entry<String, NameSet> entry : nameMergedGroups.entrySet()) {
             String name = entry.getKey();
             int fre = entry.getValue().frequency;
-            list.put(name, fre);
+            map.put(name, fre);
         }
-        return list;
+        return map;
     }
 
     private static Map<String, NameSet> mergeGroups(Map<String, NameSet> nameGroups, String[][] synonyms) {

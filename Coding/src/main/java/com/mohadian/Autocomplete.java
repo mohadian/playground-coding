@@ -17,7 +17,8 @@ public class Autocomplete {
 
         void insert(String input) {
             TrieNode curr = this;
-            for (int i = 0; i < input.toCharArray().length; i++) {
+            int inputLength = input.length();
+            for (int i = 0; i < inputLength; i++) {
                 TrieNode node;
                 char ch = input.charAt(i);
                 if (!curr.nodes.containsKey(ch)) {
@@ -26,26 +27,26 @@ public class Autocomplete {
                 } else {
                     node = curr.nodes.get(ch);
                 }
-                if (input.length() == i + 1) {
+                if (inputLength == i + 1) {
                     node.isCompleteWord = true;
                 }
                 curr = node;
             }
         }
 
-        ArrayList<String> getWords(String pref) {
+        ArrayList<String> getWords(String prefix, boolean all) {
             TrieNode curr = this;
             ArrayList<String> list = new ArrayList<>();
             TrieNode node = null;
 
-            for (Character c : pref.toCharArray()) {
+            for (Character c : prefix.toCharArray()) {
                 if (curr.nodes.containsKey(c)) {
                     node = curr.nodes.get(c);
                 } else {
                     break;
                 }
-                if (node != null && node.isCompleteWord) {
-                    //list.add(node.prefix);
+                if (all && node != null && node.isCompleteWord) {
+                    list.add(node.prefix);
                 }
                 curr = node;
             }
@@ -70,7 +71,6 @@ public class Autocomplete {
         }
     }
 
-
     public static void main(String[] args) {
         TrieNode trie = new TrieNode("");
 
@@ -79,8 +79,9 @@ public class Autocomplete {
         trie.insert("acghabck");
         trie.insert("abcg");
         trie.insert("abdc");
+        trie.insert("abcdc");
 
-        System.out.println(Arrays.toString(trie.getWords("abc").toArray()));
-        System.out.println(Arrays.toString(trie.getWords("ab").toArray()));
+        System.out.println(Arrays.toString(trie.getWords("abc", false).toArray()));
+        System.out.println(Arrays.toString(trie.getWords("ab", true).toArray()));
     }
 }

@@ -20,13 +20,11 @@ import static jdk.nashorn.internal.runtime.JSType.isNumber;
 public class EvalExpr {
 
     private static int evaluate(String exp) {
-        Stack<String> operators = new Stack();
-        Stack<String> operands = new Stack();
+        Stack<String> operators = new Stack<>();
+        Stack<String> operands = new Stack<>();
 
-        String token;
         String[] tokens = getTokens(exp);
-        for (int i = 0; i < tokens.length; i++) {
-            token = tokens[i];
+        for (String token : tokens) {
             if (isOperator(token)) {
                 operators.push(token);
             } else if (isOpenBracket(token)) {

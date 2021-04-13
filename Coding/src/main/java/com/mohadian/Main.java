@@ -23,8 +23,6 @@ public class Main {
             dict.get(sorted).add(word);
         }
         sc.close();
-
-
     }
 }
 

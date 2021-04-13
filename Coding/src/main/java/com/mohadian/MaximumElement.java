@@ -37,15 +37,15 @@ public class MaximumElement {
 
         int getArgs(String[] tokens) {
             if (tokens.length > 1) {
-                return Integer.valueOf(tokens[1]);
+                return Integer.parseInt(tokens[1]);
             }
             return 0;
         }
     }
 
     public static void executeQueries(Query[] queries) {
-        Stack<Integer> max = new Stack();
-        Stack<Integer> vals = new Stack();
+        Stack<Integer> max = new Stack<>();
+        Stack<Integer> vals = new Stack<>();
         for (Query query : queries) {
             if (query.type == QueryType.PUSH) {
                 vals.push(query.arg);
@@ -68,7 +68,7 @@ public class MaximumElement {
 
     public static void main(String[] args) {
         File file = new File("input.txt");
-        Scanner scanner = null;
+        Scanner scanner;
         try {
             scanner = new Scanner(file);
 

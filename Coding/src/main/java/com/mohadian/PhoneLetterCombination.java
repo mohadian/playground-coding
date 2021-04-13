@@ -16,8 +16,8 @@ public class PhoneLetterCombination {
                 "0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs","tuv", "wxyz"
         };
 
-        //letterCombinationRecursive(input, result, "", 0, mappings);
-        letterCombinationIterative(input, result,  mappings);
+        letterCombinationRecursive(input, result, "", 0, mappings);
+        //letterCombinationIterative(input, result,  mappings);
         return result;
     }
 
@@ -52,7 +52,9 @@ public class PhoneLetterCombination {
 
     public static void main(String[] args) {
         PhoneLetterCombination combination = new PhoneLetterCombination();
-        List<String> result = combination.letterCombination("23");
+        List<String> result = combination.letterCombination("42");
+        System.out.println(Arrays.toString(result.toArray()));
+        result = combination.letterCombination("23");
         System.out.println(Arrays.toString(result.toArray()));
     }
 }

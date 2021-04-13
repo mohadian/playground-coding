@@ -2,7 +2,7 @@ package com.mohadian;
 
 public class MasterMind {
 
-    private class Score {
+    private static class Score {
         int hits = 0;
         int semi_hits = 0;
 

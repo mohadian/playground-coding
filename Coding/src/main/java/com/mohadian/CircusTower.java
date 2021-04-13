@@ -90,10 +90,7 @@ public class CircusTower {
             return true;
         }
 
-        if (sequence.get(sequence.size() - 1).isBefore(person)) {
-            return true;
-        }
-        return false;
+        return sequence.get(sequence.size() - 1).isBefore(person);
     }
 
     public static void main(String[] args) {

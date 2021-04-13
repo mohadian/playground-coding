@@ -21,7 +21,7 @@ public class CountTriplets {
 
                     if (search >= 0) {
                         int k = search;
-                        while (k < len && list[search] == list[k]) {
+                        while (k < len && list[search].equals(list[k])) {
                             count++;
                             k++;
                         }

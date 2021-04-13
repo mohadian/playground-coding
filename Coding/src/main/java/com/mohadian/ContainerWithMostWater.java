@@ -6,7 +6,7 @@ public class ContainerWithMostWater {
     private static int maxArea(int[] height) {
         Stack<Integer> stack = new Stack<>();
         int maxArea = 0;
-        int area = 0;
+        int area;
         int i = 0;
 
         while (i < height.length) {

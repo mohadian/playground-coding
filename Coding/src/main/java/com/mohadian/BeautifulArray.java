@@ -6,13 +6,11 @@ import java.util.Map;
 
 public class BeautifulArray {
 
-    private Map<Integer, int[]> memo;
     private int[] beautifulArray(int num) {
-        memo = new HashMap<>();
-        return f(num);
+        return calculateBeautifulArray(num, new HashMap<>());
     }
 
-    private int[] f(int N) {
+    private int[] calculateBeautifulArray(int N, Map<Integer, int[]> memo) {
         if (memo.containsKey(N))
             return memo.get(N);
 
@@ -21,9 +19,9 @@ public class BeautifulArray {
             ans[0] = 1;
         } else {
             int t = 0;
-            for (int x: f((N+1)/2))  // odds
+            for (int x: calculateBeautifulArray((N+1)/2, memo))  // odds
                 ans[t++] = 2*x - 1;
-            for (int x: f(N/2))  // evens
+            for (int x: calculateBeautifulArray(N/2, memo))  // evens
                 ans[t++] = 2*x;
         }
         memo.put(N, ans);
@@ -36,5 +34,4 @@ public class BeautifulArray {
         System.out.println(Arrays.toString(beautifulArray.beautifulArray(5)));
         System.out.println(Arrays.toString(beautifulArray.beautifulArray(10)));
     }
-
 }

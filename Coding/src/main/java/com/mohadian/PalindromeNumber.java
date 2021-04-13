@@ -18,7 +18,7 @@ public class PalindromeNumber {
         int yy = x;
 
         int digits = countDigits(x);
-
+        System.out.println("Checking " + x);
         for (int i = 1; i < digits; i++) {
             int pow = (int) (Math.pow(10, digits - i));
             int high = yy / pow;
@@ -33,6 +33,6 @@ public class PalindromeNumber {
     }
 
     public static void main(String[] args) {
-        System.out.println(isPalindrome(1001));
+        System.out.println(isPalindrome(31213));
     }
 }
